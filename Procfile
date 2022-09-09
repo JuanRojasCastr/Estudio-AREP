@@ -1,1 +1,1 @@
-web: java -cp target/classe;target/dependency/* org.example.HttpServer
+web: java -cp target/classe:target/dependency/* org.example.HttpServer
